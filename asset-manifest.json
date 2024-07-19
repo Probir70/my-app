@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-app%20/static/css/main.cf7a5e08.css",
+    "main.js": "/my-app%20/static/js/main.2f31b57d.js",
+    "static/media/MI GOLD 140 D.png": "/my-app%20/static/media/MI GOLD 140 D.6c830f1a63a83e441510.png",
+    "static/media/912ND-PRODUCT.png": "/my-app%20/static/media/912ND-PRODUCT.3f4cb3553cfc4376b463.png",
+    "static/media/B-01.jpg": "/my-app%20/static/media/B-01.3ebec1503d255f986bcd.jpg",
+    "static/media/MI_888N-RGB.png": "/my-app%20/static/media/MI_888N-RGB.0336c58d883da52388cd.png",
+    "static/media/MI GOLD 512 WHITE.png": "/my-app%20/static/media/MI GOLD 512 WHITE.344b167d3bea88f55928.png",
+    "static/media/Logo.png": "/my-app%20/static/media/Logo.992c0916fc675bc389f7.png",
+    "index.html": "/my-app%20/index.html",
+    "main.cf7a5e08.css.map": "/my-app%20/static/css/main.cf7a5e08.css.map",
+    "main.2f31b57d.js.map": "/my-app%20/static/js/main.2f31b57d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf7a5e08.css",
+    "static/js/main.2f31b57d.js"
+  ]
+}
